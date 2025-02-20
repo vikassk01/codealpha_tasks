@@ -12,3 +12,6 @@ TASK1-JAVA PROGRAMMING-CodeAlpha
 1.Input grades.
 2.Calculate the average,highest and lowest scores.
 3.Display the overall grade.
+
+#output
+![Image](https://github.com/user-attachments/assets/5cae23d5-b941-4ab7-80dc-c6ba79111caf)
