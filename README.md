@@ -14,4 +14,5 @@ TASK1-JAVA PROGRAMMING-CodeAlpha
 3.Display the overall grade.
 
 #output
-![Image](https://github.com/user-attachments/assets/5cae23d5-b941-4ab7-80dc-c6ba79111caf)
+![Image](https://github.com/user-attachments/assets/5f96baf2-1cee-469d-8fc8-c9fabb278dc2)
+
